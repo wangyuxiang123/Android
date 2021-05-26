@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Score</string>
+    <string name="textviewa">A Team</string>
+    <string name="textviewb">B Team</string>
+    <string name="scorea" translatable="false">0</string>
+    <string name="scoreb" translatable="false">0</string>
+    <string name="buttonA1" translatable="false">+1</string>
+    <string name="buttonA2" translatable="false">+2</string>
+    <string name="buttonA3" translatable="false">+3</string>
+    <string name="buttonB1" translatable="false">+1</string>
+    <string name="buttonB2" translatable="false">+2</string>
+    <string name="buttonB3" translatable="false">+3</string>
+    <string name="undoButton">undo</string>
+    <string name="resetButton">reset</string>
+</resources>

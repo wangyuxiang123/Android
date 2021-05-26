@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LiveData</string>
+    <string name="imageButtonDescription">Description</string>
+    <string name="clear">Clear</string>
+</resources>
